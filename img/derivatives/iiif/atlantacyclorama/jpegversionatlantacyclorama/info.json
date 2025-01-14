@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://annonatatencsu.github.io/shaun-cyclorama-test/img/derivatives/iiif/atlantacyclorama//jpegversionatlantacyclorama",
+  "height": 3541,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 55,
+      "width": 427
+    },
+    {
+      "height": 28,
+      "width": 213
+    },
+    {
+      "height": 14,
+      "width": 107
+    },
+    {
+      "height": 7,
+      "width": 53
+    },
+    {
+      "height": 3,
+      "width": 27
+    },
+    {
+      "height": 2,
+      "width": 13
+    },
+    {
+      "height": 1,
+      "width": 7
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "width": 512
+    }
+  ],
+  "width": 27322
+}
