@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://annonatatencsu.github.io/shaun-cyclorama-test/img/derivatives/iiif/quadrant12//Quadrant152",
+  "height": 8458,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 264,
+      "width": 426
+    },
+    {
+      "height": 132,
+      "width": 213
+    },
+    {
+      "height": 66,
+      "width": 107
+    },
+    {
+      "height": 33,
+      "width": 53
+    },
+    {
+      "height": 17,
+      "width": 27
+    },
+    {
+      "height": 8,
+      "width": 13
+    },
+    {
+      "height": 4,
+      "width": 7
+    },
+    {
+      "height": 2,
+      "width": 3
+    },
+    {
+      "height": 1,
+      "width": 2
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ],
+      "width": 512
+    }
+  ],
+  "width": 13638
+}
