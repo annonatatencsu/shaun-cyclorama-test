@@ -1,0 +1,38 @@
+---
+canvas: "https://annonatatencsu.github.io/shaun-cyclorama-test/img/derivatives/iiif/atlantacyclorama/canvas/atlantacyclorama-1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Dude running",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatencsu",
+                "name": "annonatatencsu"
+            },
+            "created": "2025-01-14T19:04:06.352Z",
+            "modified": "2025-01-14T19:04:09.978Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://annonatatencsu.github.io/shaun-cyclorama-test/img/derivatives/iiif/atlantacyclorama/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://annonatatencsu.github.io/shaun-cyclorama-test/img/derivatives/iiif/atlantacyclorama/canvas/atlantacyclorama-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=11719.6630859375,2586.13720703125,260,177.27294921875"
+        }
+    },
+    "id": "1f37b4f9-f109-4316-a012-fc5f51f39477.json",
+    "motivation": "commenting"
+}
